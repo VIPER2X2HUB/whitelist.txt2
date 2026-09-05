@@ -2,5 +2,13 @@
   "7682552953": {
     "hwid": "C6743ECBBD6BFB32AEAA1EEF554BB142A87E5A2F67FC143078B005D8CCCAAA3F",
     "enabled": true
+  },
+  "9689416464": {
+    "hwid": "e34a660836c6c3a62b70b93d1c6463b8aec7b547c2cde9bdf7fbeeb153a9fcb4",
+    "enabled": true
+  },
+  "10055513863": {
+    "hwid": "dc4678b5e6a9942dfd1cb26d408b7c8d4480b6aea7fc51bacd4119939390b241",
+    "enabled": true
   }
 }
